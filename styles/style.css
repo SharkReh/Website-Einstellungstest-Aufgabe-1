@@ -1,0 +1,422 @@
+header {
+  background-color: rgb(255, 255, 255);
+  padding: 0px;
+  font-size: 10px;
+}
+header #header-part-blue {
+  position: relative;
+  color: black;
+  text-align: center;
+  padding: 0px;
+  text-decoration: none;
+  font-size: 8px;
+  line-height: 5px;
+  border-radius: 0px;
+  overflow: hidden;
+  margin-bottom: 0px;
+  z-index: 1;
+  color: white;
+}
+header #header-part-blue .truck {
+  top: 10%;
+  position: absolute;
+  font-size: 11px;
+  left: 219px;
+}
+header #header-part-blue .deliever {
+  position: relative;
+  left: -500px;
+  font-size: 10px;
+}
+header #header-part-blue .telefone {
+  position: absolute;
+  top: 0%;
+  left: 30%;
+  font-size: 11%;
+}
+header #header-part-blue .telefone-number {
+  position: absolute;
+  top: 0%;
+  left: 31.5%;
+}
+header #header-part-blue .free-shipping {
+  position: absolute;
+  top: 3%;
+  left: 56%;
+}
+header #header-part-blue .return {
+  position: absolute;
+  top: 3%;
+  left: 77.5%;
+}
+header #header-part-white {
+  color: black;
+  text-align: center;
+  padding: 39px;
+  text-decoration: none;
+  font-size: 8px;
+  line-height: 10px;
+  border-radius: 0px;
+  overflow: hidden;
+  margin-bottom: 0px;
+}
+header #header-part-white #image-hutkaufen {
+  position: absolute;
+  top: 4.5%;
+  left: 1%;
+}
+header #header-part-white .huete {
+  position: absolute;
+  top: 5.2%;
+  left: 18.5%;
+}
+header #header-part-white #line-header {
+  position: absolute;
+  left: 72%;
+  top: 8%;
+}
+header #header-part-white #search-header {
+  position: absolute;
+  left: 83%;
+  top: 4.5%;
+}
+header #header-part-white .header-elements {
+  position: absolute;
+  top: 5%;
+  left: 88%;
+}
+header #header-part-white .user-profile {
+  padding-left: 80px;
+}
+header #header-part-white .shopping-cart {
+  padding-left: 160px;
+}
+header #header-part-white .simple-icon-2 {
+  position: absolute;
+  top: 5%;
+  left: 98.7%;
+  z-index: 2;
+}
+header #header-part-white #input-search {
+  position: absolute;
+  top: 5%;
+  left: 72%;
+  border: none;
+  font-size: 17px;
+  width: 170px;
+  opacity: 0.5;
+  font-family: Helvetica;
+}
+header #header-part-blue {
+  background-color: rgb(38, 50, 65);
+}
+header #header-part-white {
+  background-color: white;
+}
+
+main #main-part {
+  width: 1610px;
+  height: 700px;
+  align-content: center;
+}
+main #hut-main {
+  position: absolute;
+  top: 16.2%;
+  left: 30%;
+  width: 900px;
+}
+main .new-arrival {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  color: rgb(248, 124, 112);
+}
+main .summer-2022 {
+  position: absolute;
+  top: 32%;
+  left: 10%;
+  font-weight: 750;
+  font-size: 45px;
+}
+main .collection {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  background-color: rgb(248, 124, 112);
+  text-decoration: none;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  font-weight: bold;
+  font-size: 17px;
+}
+main .arrow {
+  position: absolute;
+  top: 81%;
+  left: 85%;
+  background-color: white;
+  padding: 20px;
+}
+main .arrow-left {
+  position: absolute;
+  top: 81%;
+  left: 81.7%;
+}
+main .experience {
+  position: absolute;
+  top: 93%;
+  left: 52%;
+  font-weight: bolder;
+}
+main .portrait-woman {
+  position: absolute;
+  top: 84%;
+  left: 23%;
+  width: 320px;
+  height: 270px;
+}
+main .experience-text-small {
+  position: absolute;
+  top: 103%;
+  left: 52%;
+}
+main .explore-collection {
+  position: absolute;
+  top: 110%;
+  left: 52%;
+  font-weight: bold;
+  font-size: 19px;
+  border-bottom: 2px solid;
+  width: 340px;
+  border-color: rgb(248, 124, 112);
+}
+main .arrow-right-explore-collection {
+  position: absolute;
+  top: 112.4%;
+  left: 72%;
+}
+main .slouch-hats {
+  position: absolute;
+  top: 105.9%;
+  left: 24%;
+  border: none;
+  background-color: white;
+  color: rgb(248, 124, 112);
+  font-weight: bold;
+  font-size: 15px;
+  padding: 10px 75px;
+}
+main .seal {
+  position: absolute;
+  top: 103%;
+  left: 95%;
+}
+main .rating-for-seal {
+  position: absolute;
+  top: 110%;
+  left: 94.5%;
+}
+main .man-portrait {
+  position: absolute;
+  top: 84%;
+  left: 6.5%;
+  width: 270px;
+}
+main .payments {
+  position: absolute;
+  top: 145%;
+  left: 5%;
+}
+main .dhl-deliverer {
+  padding-right: 50px;
+  border-right: 1px solid;
+}
+main .paypal-payment {
+  padding-left: 65px;
+}
+main .klarna-payment {
+  padding-left: 65px;
+}
+main .mastercard-payment {
+  padding-left: 65px;
+}
+main .vorkasse-payment {
+  padding-left: 65px;
+}
+main .nachnahme-payment {
+  padding-left: 65px;
+}
+main .rechnung-payment {
+  padding-left: 65px;
+}
+main .visa-payment {
+  padding-left: 65px;
+}
+
+footer {
+  background-color: rgb(236, 236, 236);
+  width: 1610px;
+  height: 1000px;
+  position: absolute;
+  top: 155%;
+}
+
+.contact-footer {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+.telephone-for-contact {
+  position: absolute;
+  top: 12%;
+  left: 5%;
+}
+
+.telephone-number {
+  position: absolute;
+  top: 11.8%;
+  left: 7%;
+}
+
+.opening-hours-telephone {
+  position: absolute;
+  top: 13.5%;
+  left: 7%;
+}
+
+.contact-email {
+  position: absolute;
+  top: 23%;
+  left: 7%;
+}
+
+.contact-email-icon {
+  position: absolute;
+  top: 23.5%;
+  left: 5%;
+}
+
+.customer-service {
+  position: absolute;
+  top: 35%;
+  left: 5%;
+}
+
+.customer-service-information {
+  position: absolute;
+  top: 41%;
+  left: 5%;
+  line-height: 35px;
+}
+
+.line-footer {
+  position: absolute;
+  top: 7%;
+  left: 25%;
+  height: 631px;
+}
+
+.hats-footer {
+  position: absolute;
+  top: 5%;
+  left: 32%;
+}
+
+.hats-footer-text {
+  position: absolute;
+  top: 10.5%;
+  left: 32%;
+  line-height: 35px;
+}
+
+.caps-footer {
+  position: absolute;
+  top: 5%;
+  left: 45%;
+}
+
+.caps-footer-text {
+  position: absolute;
+  top: 10.5%;
+  left: 45%;
+  line-height: 35px;
+}
+
+.cap-footer {
+  position: absolute;
+  top: 5%;
+  left: 60%;
+}
+
+.cap-footer-text {
+  position: absolute;
+  top: 10.5%;
+  left: 60%;
+  line-height: 35px;
+}
+
+.gloves-footer {
+  position: absolute;
+  top: 35%;
+  left: 60%;
+}
+
+.gloves-footer-text {
+  position: absolute;
+  top: 40.5%;
+  left: 60%;
+  line-height: 35px;
+}
+
+.scarves-footer {
+  position: absolute;
+  top: 5%;
+  left: 75%;
+}
+
+.scarves-footer-text {
+  position: absolute;
+  top: 10.5%;
+  left: 75%;
+  line-height: 35px;
+}
+
+.topics-footer {
+  position: absolute;
+  top: 35%;
+  left: 75%;
+}
+
+.topics-footer-text {
+  position: absolute;
+  top: 40.5%;
+  left: 75%;
+  line-height: 35px;
+}
+
+.information-about {
+  background-color: rgb(48, 61, 78);
+  width: 1625px;
+  height: 100px;
+  position: absolute;
+  top: 90%;
+}
+
+.text-information-policy {
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(176, 181, 187);
+  line-height: 25px;
+}
+
+.arrow-top {
+  position: absolute;
+  top: -25%;
+  left: 90%;
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,140 @@
+main {
+#main-part {
+    width: 1610px;
+    height: 700px;
+    align-content: center;
+}
+#hut-main {
+    position: absolute;
+    top: 16.2%;
+    left: 30%;
+    width: 900px;
+}
+.new-arrival {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    color: $secondaryClr;
+}
+.summer-2022 {
+    position: absolute;
+    top: 32%;
+    left: 10%;
+    font-weight: 750;
+    font-size: 45px;
+}
+.collection {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    background-color: $secondaryClr;
+    text-decoration: none;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.arrow {
+    position: absolute;
+    top: 81%;
+    left: 85%;
+    background-color: white;
+    padding: 20px;
+}
+.arrow-left {
+    position: absolute;
+    top: 81%;
+    left: 81.7%;
+}
+.experience {
+    position: absolute;
+    top: 93%;
+    left: 52%;
+    font-weight: bolder;
+}
+.portrait-woman {
+    position: absolute;
+    top: 84%;
+    left: 23%;
+    width: 320px;
+    height: 270px;
+}
+.experience-text-small {
+    position: absolute;
+    top: 103%;
+    left: 52%;
+}
+.explore-collection {
+    position: absolute;
+    top: 110%;
+    left: 52%;
+    font-weight: bold;
+    font-size: 19px;
+    border-bottom: 2px solid;
+    width: 340px;
+    border-color: $secondaryClr;
+}
+.arrow-right-explore-collection {
+    position: absolute;
+    top: 112.4%;
+    left: 72%;
+}
+.slouch-hats {
+    position: absolute;
+    top: 105.9%;
+    left: 24%;
+    border: none;
+    background-color: white;
+    color: $secondaryClr;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px 75px;
+}
+.seal {
+    position: absolute;
+    top: 103%;
+    left: 95%;
+}
+.rating-for-seal {
+    position: absolute;
+    top: 110%;
+    left: 94.5%;
+}
+.man-portrait {
+    position: absolute;
+    top: 84%;
+    left: 6.5%;
+    width: 270px;
+}
+.payments {
+    position: absolute;
+    top: 145%;
+    left: 5%;
+}
+.dhl-deliverer {
+    padding-right: 50px;
+    border-right: 1px solid;
+}
+.paypal-payment {
+    padding-left: 65px;
+}
+.klarna-payment {
+    padding-left: 65px;
+}
+.mastercard-payment {
+    padding-left: 65px;
+}
+.vorkasse-payment {
+    padding-left: 65px;
+}
+.nachnahme-payment {
+    padding-left: 65px;
+}
+.rechnung-payment {
+    padding-left: 65px;
+}
+.visa-payment {
+    padding-left: 65px;
+}
+}
